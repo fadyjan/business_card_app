@@ -41,20 +41,17 @@ class MainApp extends StatelessWidget {
                 ),
                 const Text(
                   "Software Engineer",
-                  style: TextStyle(color: Colors.grey),
+                  style: TextStyle(color: Colors.blue),
                 ),
                 Divider(
-                  color: Colors.grey,
-                  thickness: 1,
-                  indent: 60,
-                  endIndent: 60,
+                  color: Colors.blue,
                 ),
                 Card(
                   margin: EdgeInsets.symmetric(vertical: 18, horizontal: 20),
                   child: ListTile(
                     leading: Icon(Icons.phone, size: 40),
                     title: Text(
-                      "+201277795928",
+                      "2222222",
                       style: TextStyle(fontSize: 20),
                     ),
                   ),
@@ -64,7 +61,7 @@ class MainApp extends StatelessWidget {
                   child: ListTile(
                     leading: Icon(Icons.email, size: 40),
                     title: Text(
-                      "fady.jan95@gmail.com",
+                      "22222222.coms",
                       style: TextStyle(fontSize: 20),
                     ),
                   ),
