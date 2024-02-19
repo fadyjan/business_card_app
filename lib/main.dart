@@ -51,7 +51,7 @@ class MainApp extends StatelessWidget {
                   child: ListTile(
                     leading: Icon(Icons.phone, size: 40),
                     title: Text(
-                      "2222222",
+                      "01277795928",
                       style: TextStyle(fontSize: 20),
                     ),
                   ),
@@ -61,7 +61,7 @@ class MainApp extends StatelessWidget {
                   child: ListTile(
                     leading: Icon(Icons.email, size: 40),
                     title: Text(
-                      "22222222.coms",
+                      "fady.jan95@gmail.com",
                       style: TextStyle(fontSize: 20),
                     ),
                   ),
